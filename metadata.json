@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Voice Call",
+  "description": "An interactive real-time voice call application powered by the Gemini Live API, designed with a user interface inspired by Zalo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
